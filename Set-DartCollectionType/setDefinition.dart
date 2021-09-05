@@ -1,4 +1,3 @@
-// A set is an unordered
 
 void main() {
   // Defining a set using Constructor
